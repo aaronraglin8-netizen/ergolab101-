@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ergolab101.com/sitemap.xml
